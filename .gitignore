@@ -1,0 +1,19 @@
+# Game data and local mod-builder output must never enter this repository.
+local-output/
+*.bundle
+*.nsp
+*.xci
+*.nca
+*.nso
+*.keys
+*.dat
+*.assets
+*.resS
+main
+main.npdm
+rtld
+sdk
+subsdk*
+__pycache__/
+.venv/
+*.zip
