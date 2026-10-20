@@ -37,12 +37,7 @@ Useful starting points:
 - [UnityPy](https://github.com/K0lb3/UnityPy), for inspecting Unity assets from your own dumps
 - [Capstone](https://github.com/capstone-engine/capstone), for instruction inspection
 
-## Related projects by lemonacle
-
-These are **PC game fixes**, separate from the Switch patches:
-
-- [ENDER LILIES Aspect Ratio Fix](https://github.com/lemonacle/EnderLiliesAspectRatioFix)
-- [Monster Sanctuary Aspect Ratio Fix](https://github.com/lemonacle/MonsterSanctuaryAspectRatioFix)
+I've also worked on 4:3 fixes for PC games—you can find those on [my GitHub profile](https://github.com/lemonacle).
 
 ## Reporting an issue
 
