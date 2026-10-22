@@ -10,9 +10,19 @@
   "full-1.1.0": {
     "title_id": "0100BA4026E94000",
     "build_id": "0F1169AA7D0FA4529C861F96ADEC306E",
-    "patch_sha256": "240e2aefc5efe639c55c57c5c215070f327576ede88c15c70b5f4915b77caa74",
-    "render_scale_bundle": "settings_assets_redwine_urp_settings_low_41a0a66be2249fd70ac801c3a3a2df49.bundle",
-    "render_scale_path_id": 7762469017810111640,
-    "original_bundle_sha256": "0bcef5d765654346cf88a4b2ac05cfb534ce0ba16328d5fc0dfc6deb41742edf"
+    "mods": {
+      "4x3 v7.2 (1.1.0)": {
+        "path": "4x3 v7.2 (1.1.0)/exefs/4x3 v7.2 (1.1.0).pchtxt",
+        "sha256": "599e0846b3526f4c66b49af38070c451176767d15477269af63b94f132f1db5c"
+      },
+      "RenderScale Fix v3 (1.1.0)": {
+        "path": "RenderScale Fix v3 (1.1.0)/exefs/RenderScale Fix v3 (1.1.0).pchtxt",
+        "sha256": "c8a85ca5eabf4625e9f6e005bdfc47b4207a5b8e4839a2735e2d40eafb7db46c"
+      },
+      "Manual-Zoom v3 (1.1.0)": {
+        "path": "Manual-Zoom v3 (1.1.0)/exefs/Manual-Zoom v3 (1.1.0).pchtxt",
+        "sha256": "d9ee9ff072586e5db41651880105c145ca1e516aaaf8051ff77a7fe55405e443"
+      }
+    }
   }
 }

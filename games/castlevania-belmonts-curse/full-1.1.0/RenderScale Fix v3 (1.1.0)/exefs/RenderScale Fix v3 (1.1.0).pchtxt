@@ -1,0 +1,7 @@
+@nsobid-0F1169AA7D0FA4529C861F96ADEC306E
+# RenderScale 1x fix - full game 1.1.0
+@flag offset_shift 0x100
+@enabled
+04CAF684 00102E1E
+01F31B4C 08102E1E
+@stop

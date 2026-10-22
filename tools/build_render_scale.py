@@ -12,6 +12,8 @@ def build(edition, romfs, output):
 
     root = Path(__file__).resolve().parents[1]
     config = json.loads((root / "games/castlevania-belmonts-curse/builds.json").read_text())
+    if edition == "full-1.1.0":
+        raise ValueError("Use the asset-free RenderScale Fix from the full-game release; no builder is needed.")
     spec = config[edition]
     relative = Path("Data/StreamingAssets/aa/Switch") / spec["render_scale_bundle"]
     source = romfs / relative

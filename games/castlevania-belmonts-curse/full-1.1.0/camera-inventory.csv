@@ -1,0 +1,875 @@
+﻿scene,biome_scene,save_room_name,save_point_component_count,camera,serialized_enabled,serialized_priority,body_components,camera_classification_candidate,manual_zoom_policy_when_active
+Assets/Generated/Scenes/Gym_BeastFamily/Gym_BeastFamily_SaveRoom_uid3.unity,False,True,2,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/Gym_HumanoidFamily/Gym_HumanoidFamily_SaveRoom_uid2.unity,False,True,2,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/Gym_Mobs_Bulky/Gym_BulkyFamily_SaveRoom_uid2.unity,False,True,2,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/Gym_Mobs_Feminine_World/Gym_Vania_SaveRoom_uid1.unity,False,True,4,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/Gym_Mobs_Feminine_World/Gym_Vania_SaveRoom_uid1.unity,False,True,4,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/Gym_Mobs_WingsArms_Family/Room_WeaponRoom_SaveRoom_uid1.unity,False,True,4,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/Gym_Mobs_WingsArms_Family/Room_WeaponRoom_SaveRoom_uid1.unity,False,True,4,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/Gym_Mobs_WingsBack_Family/Room_WeaponRoom_SaveRoom_uid1.unity,False,True,4,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/Gym_Mobs_WingsBack_Family/Room_WeaponRoom_SaveRoom_uid1.unity,False,True,4,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/Gym_SkeletonFamily/Gym_Vania_SaveRoom_uid1.unity,False,True,4,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/Gym_SkeletonFamily/Gym_Vania_SaveRoom_uid1.unity,False,True,4,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/Room_Gym_Boss_JeanneDArc_uid69.unity,True,False,0,CAM_JeanneIntro_B1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/Room_Gym_Boss_JeanneDArc_uid69.unity,True,False,0,CAM_JeanneIntro_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/Room_Gym_Boss_JeanneDArc_uid69.unity,True,False,0,CAM_JeanneIntro_E1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/Room_Gym_Boss_JeanneDArc_uid69.unity,True,False,0,CAM_JeanneIntro_F1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/Room_Gym_Boss_JeanneDArc_uid69.unity,True,False,0,CAM_JeanneIntro_D2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/Room_Gym_Boss_JeanneDArc_uid69.unity,True,False,0,CAM_JeanneIntro_E2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/Room_Gym_Boss_JeanneDArc_uid69.unity,True,False,0,CAM_JeanneIntro_B2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/Room_Gym_Boss_JeanneDArc_uid69.unity,True,False,0,CAM_JeanneIntro_C1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/Room_Gym_Boss_JeanneDArc_uid69.unity,True,False,0,CAM_JeanneIntro_Outro,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/Room_Gym_Boss_JeanneDArc_uid69.unity,True,False,0,CAM_Jeanne_Absorption,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/Room_Gym_Boss_JeanneDArc_uid69.unity,True,False,0,CAM_JeanneIntro_D1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/Room_Gym_Boss_JeanneDArc_uid69.unity,True,False,0,CAM_JeanneIntro_C2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/Room_Gym_Boss_JeanneDArc_uid69.unity,True,False,0,CAM_JeanneIntro_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetRich_Boss_StLouis_uid114.unity,True,False,0,CAM_Succes_Heart2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetRich_Boss_StLouis_uid114.unity,True,False,0,CAM_Succes_All,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetRich_Boss_StLouis_uid114.unity,True,False,0,ScaleCamera,1,10,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetRich_Boss_StLouis_uid114.unity,True,False,0,CAM_Succes_Rose,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetRich_Boss_StLouis_uid114.unity,True,False,0,CAM_Succes_Heart1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetRich_Boss_StLouis_uid114.unity,True,False,0,ScaleCamera,1,-10,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetRich_Boss_StLouis_uid114.unity,True,False,0,CAM_FirstTime_Leaf2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetRich_Boss_StLouis_uid114.unity,True,False,0,CAM_Succes_SaintLouis,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetRich_Boss_StLouis_uid114.unity,True,False,0,CAM_FirstTime_Scale1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetRich_Boss_StLouis_uid114.unity,True,False,0,CAM_Succes_SaintLouisFar,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetRich_Boss_StLouis_uid114.unity,True,False,0,CAM_Succes_RoseAndHeart,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetRich_Boss_StLouis_uid114.unity,True,False,0,CAM_FirstTime_Root1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetRich_Boss_StLouis_uid114.unity,True,False,0,CAM_Succes_RoseClose,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetRich_Boss_StLouis_uid114.unity,True,False,0,CAM_FirstTime_Large1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetRich_Boss_StLouis_uid114.unity,True,False,0,CAM_FirstTime_Large2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetRich_Boss_StLouis_uid114.unity,True,False,0,CAM_FirstTime_Root2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetRich_Boss_StLouis_uid114.unity,True,False,0,CAM_FirstTime_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetRich_Boss_StLouis_uid114.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetRich_Boss_StLouis_uid114.unity,True,False,0,CAM_Succes_AllFar,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetRich_Boss_StLouis_uid114.unity,True,False,0,CAM_FirstTime_Scale2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetRich_Boss_StLouis_uid114.unity,True,False,0,CAM_FirstTime_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetRich_Boss_StLouis_uid114.unity,True,False,0,CAM_FirstTime_Leaf1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetRich_Boss_StLouis_uid114.unity,True,False,0,CAM_SaintLouis_Absorption,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_FastTravelRoom_uid72.unity,True,False,0,CAM_Absorption,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_FirstRoom_uid73.unity,True,False,0,CAM_PlanE2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_FirstRoom_uid73.unity,True,False,0,CAM_PlanB1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_FirstRoom_uid73.unity,True,False,0,CAM_PlanB2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_FirstRoom_uid73.unity,True,False,0,CAM_PlanE1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_FirstRoom_uid73.unity,True,False,0,CAM_TruckVertically,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_FirstRoom_uid73.unity,True,False,0,CAM_PlanC1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_FirstRoom_uid73.unity,True,False,0,CAM_PlanA1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_FirstRoom_uid73.unity,True,False,0,CAM_CloseUp,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_FirstRoom_uid73.unity,True,False,0,CAM_PlanC2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_FirstRoom_uid73.unity,True,False,0,CAM_PlanD,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_FirstRoom_uid73.unity,True,False,0,CAM_PlanA2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_FirstRoom_uid73.unity,True,False,0,CAM_Start,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_Room_Boss_Leon_MainRoom_uid80.unity,True,False,0,CAM_IntroLeon_PlanD2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_Room_Boss_Leon_MainRoom_uid80.unity,True,False,0,CAM_CatacombDoor_Lock_2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_Room_Boss_Leon_MainRoom_uid80.unity,True,False,0,CAM_IntroLeon_PlanB2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_Room_Boss_Leon_MainRoom_uid80.unity,True,False,0,CAM_IntroLeon_PlanB1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_Room_Boss_Leon_MainRoom_uid80.unity,True,False,0,CAM_OutroFocusRose,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_Room_Boss_Leon_MainRoom_uid80.unity,True,False,0,CAM_CatacombDoor_Lock_1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_Room_Boss_Leon_MainRoom_uid80.unity,True,False,0,CAM_CatacombDoor_All_1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_Room_Boss_Leon_MainRoom_uid80.unity,True,False,0,CAM_PreIntro,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_Room_Boss_Leon_MainRoom_uid80.unity,True,False,0,GPE_PunctualVirtualCamera,0,15,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_Room_Boss_Leon_MainRoom_uid80.unity,True,False,0,CAM_IntroLeon_PlanC2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_Room_Boss_Leon_MainRoom_uid80.unity,True,False,0,CAM_IntroLeon_PlanD1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_Room_Boss_Leon_MainRoom_uid80.unity,True,False,0,CAM_CatacombDoor_All_2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_Room_Boss_Leon_MainRoom_uid80.unity,True,False,0,CAM_Outro,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_Room_Boss_Leon_MainRoom_uid80.unity,True,False,0,CAM_IntroLeon_PlanC1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_Room_Boss_Leon_MainRoom_uid80.unity,True,False,0,CAM_IntroLeon_PlanA2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_Room_Boss_Leon_MainRoom_uid80.unity,True,False,0,CAM_IntroLeon_PlanA1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_Room_Boss_Leon_MainRoom_uid80.unity,True,False,0,CAM_CatacombDoor_ThreeKey,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_Room24_uid62.unity,True,False,0,Ferryman_Clue001_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_SaveRoom02_uid78.unity,True,True,1,CAM_FirstSaveRoom,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_SaveRoom02_uid78.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_SaveRoom04_uid87.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_SaveRoom05_uid107.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_SaveRoom07_uid126.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoor_SaveRoom08_uid140.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room01_uid82.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room01_uid82.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room01_uid82.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room01_uid82.unity,True,False,0,GPE_PunctualVirtualCamera,0,15,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room01_uid82.unity,True,False,0,SimpleCamera_AfterGameplay,1,-1,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room01_uid82.unity,True,False,0,GPE_PunctualVirtualCamera,0,15,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room01_uid82.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room01_uid82.unity,True,False,0,SimpleCamera_TowerCutscene,1,-1,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room01_uid82.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room01_uid82.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room03_uid81.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room05_uid85.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room05_uid85.unity,True,False,0,CAM_VistaNotreDame_B,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room05_uid85.unity,True,False,0,CAM_VistaNotreDame_A,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room07_uid88.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room07_uid88.unity,True,False,0,GPE_PunctualVirtualCamera,0,15,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room07_uid88.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room09_uid90.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room09_uid90.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room09_uid90.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room10_uid92.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room10_uid92.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room14_uid97.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room14_uid97.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,14,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room14_uid97.unity,True,False,0,JoanClue2_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room14_uid97.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room19_uid105.unity,True,False,0,GPE_PunctualVirtualCamera,1,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room19_uid105.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room19_uid105.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room19_uid105.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room20_uid106.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room20_uid106.unity,True,False,0,CameraSpireDolly,0,12,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room21_uid108.unity,True,False,0,JoanClue01_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room21_uid108.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room26_uid118.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room29_uid121.unity,True,False,0,Fool_Boss_Door_Camera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room29_uid121.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room34_uid127.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room35_uid128.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room35_uid128.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room35_uid128.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room35_uid128.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room36_uid129.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room37_uid130.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room37_uid130.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room38_uid131.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room38_uid131.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room38_uid131.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room38_uid131.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room39_uid132.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room40_uid133.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room41_uid134.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room41_uid134.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room42_uid135.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room42_uid135.unity,True,False,0,Leon_FirstClue_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room43_uid136.unity,True,False,0,Rose_Explore_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room43_uid136.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room44_uid137.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room47_uid141.unity,True,False,0,Mammon_Clue_003_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room47_uid141.unity,True,False,0,Mammon_Clue_004_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room47_uid141.unity,True,False,0,Mammon_Clue_001_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room48_uid142.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_01_Streets_Poor/StreetsPoorV2_Room49_uid143.unity,True,False,0,Whip_Tutorial_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery_FastTravelRoom_uid149.unity,True,False,0,CAM_Absorption,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery_MVP_Room_020_uid133.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery_MVP_Room_070_uid138.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery_MVP_Room_090_uid140.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery_MVP_Room_100_uid141.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery_MVP_Room_110_uid143.unity,True,False,0,CAM_MausoleumEleanor_B1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery_MVP_Room_110_uid143.unity,True,False,0,CAM_MausoleumEleanor_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery_MVP_Room_110_uid143.unity,True,False,0,CAM_MausoleumEleanor_C1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery_MVP_Room_110_uid143.unity,True,False,0,CAM_MausoleumEleanor_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery_MVP_Room_110_uid143.unity,True,False,0,CAM_MausoleumEleanor_B2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery_MVP_Room_110_uid143.unity,True,False,0,CAM_MausoleumEleanor_C2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery_MVP_Room_110_uid143.unity,True,False,0,CAM_MausoleumEleanor_Absorb,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery_MVP_Room_110_uid143.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery_MVP_Room_130_uid145.unity,True,False,0,GPE_PunctualVirtualCamera_Static,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery_MVP_Room_140_uid146.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery_MVP_Room_150_uid147.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery_MVP_Room_160_uid148.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery_SaveRoom_060_uid142.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery_SaveRoom020_uid70.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery_SaveRoom040_uid99.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery_SaveRoom050_uid123.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room19_uid151.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room19_uid151.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room19_uid151.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room19_uid151.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room19_uid151.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room19_uid151.unity,True,False,0,GPE_PunctualVirtualCamera_Static,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room19_uid151.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room19_uid151.unity,True,False,0,Medusa_Clue2_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room19_uid151.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room21_uid109.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room22_uid110.unity,True,False,0,Medusa_Clue04_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room22_uid110.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,12,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room25_uid113.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room26_uid114.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room26_uid114.unity,True,False,0,Medusa_Clue_003_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room26_uid114.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room27_uid115.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room28_uid116.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room31_uid119.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room34_uid122.unity,True,False,0,Medusa_Clue01_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room34_uid122.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room35_uid125.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room35_uid125.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room38_uid128.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room40_uid130.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,13,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Cemetery2_Room41_uid131.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Gym_Boss_Medusa_BossRoom_uid101.unity,True,False,0,CAM_Intro,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Gym_Boss_Medusa_BossRoom_uid101.unity,True,False,0,CAM_PlanA,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Gym_Boss_Medusa_BossRoom_uid101.unity,True,False,0,CAM_Absorb,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Gym_Boss_Medusa_BossRoom_uid101.unity,True,False,0,CAM_PlanF_2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Gym_Boss_Medusa_BossRoom_uid101.unity,True,False,0,CAM_PlanC_1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Gym_Boss_Medusa_BossRoom_uid101.unity,True,False,0,CAM_PlanC_2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Gym_Boss_Medusa_BossRoom_uid101.unity,True,False,0,CAM_Outro,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Gym_Boss_Medusa_BossRoom_uid101.unity,True,False,0,CAM_PlanB,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Gym_Boss_Medusa_BossRoom_uid101.unity,True,False,0,CAM_PlanD,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Gym_Boss_Medusa_BossRoom_uid101.unity,True,False,0,CAM_PlanF_1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_02_InnocentsCemetery/Gym_Boss_Medusa_BossRoom_uid101.unity,True,False,0,FightCamera,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_FastTravelRoom_uid102.unity,True,False,0,CAM_Absorption,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room01_uid108.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room01_uid108.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room04_uid111.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room06_uid114.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room11_uid119.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room11_uid119.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,13,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room12_uid120.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room14_uid123.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room15_uid124.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room16_uid125.unity,True,False,0,GPE_PunctualVirtualCamera,0,12,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room17_uid126.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room17_uid126.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room17_uid126.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room24_uid133.unity,True,False,0,Death_Clue001_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room25_uid134.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room27_uid137.unity,True,False,0,CAM_Intro_C2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room27_uid137.unity,True,False,0,CAM_Intro_C1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room27_uid137.unity,True,False,0,CAM_Intro_G1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room27_uid137.unity,True,False,0,CAM_Intro_F1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room27_uid137.unity,True,False,0,CAM_Intro_E2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room27_uid137.unity,True,False,0,CAM_Intro_F2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room27_uid137.unity,True,False,0,CAM_Outro_B1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room27_uid137.unity,True,False,0,CAM_Intro_G2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room27_uid137.unity,True,False,0,CAM_Intro_E1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room27_uid137.unity,True,False,0,CAM_Outro_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room27_uid137.unity,True,False,0,CAM_Outro_C2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room27_uid137.unity,True,False,0,CAM_Outro_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room27_uid137.unity,True,False,0,CAM_Intro_B2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room27_uid137.unity,True,False,0,CAM_Intro_B1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room27_uid137.unity,True,False,0,CAM_Intro_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room27_uid137.unity,True,False,0,CAM_Outro_C1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room27_uid137.unity,True,False,0,CAM_Intro_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room27_uid137.unity,True,False,0,CAM_Outro_D1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room27_uid137.unity,True,False,0,CAM_Intro_D1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room27_uid137.unity,True,False,0,CAM_Intro_D2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room27_uid137.unity,True,False,0,CAM_Outro_D2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room29_uid139.unity,True,False,0,CAM_PostThroneBones_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room29_uid139.unity,True,False,0,CAM_PostThroneBones_D1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room29_uid139.unity,True,False,0,CAM_PostThroneBones_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room29_uid139.unity,True,False,0,CAM_PostThroneBones_C1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room29_uid139.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room29_uid139.unity,True,False,0,CAM_PostThroneBones_B1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room29_uid139.unity,True,False,0,CAM_PostThroneBones_B2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room29_uid139.unity,True,False,0,CAM_PostThroneBones_C2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room29_uid139.unity,True,False,0,CAM_PostThroneBones_D2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room35_uid145.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room36_uid146.unity,True,False,0,Mammon_Door_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room36_uid146.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room37_uid147.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_MVP_Room39_uid149.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_SaveRoom02_uid68.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/Catacombs_SaveRoom03_uid92.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/MillersBridge_13_BossRoom_uid105.unity,True,False,0,CAM_MammonOutro,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/MillersBridge_13_BossRoom_uid105.unity,True,False,0,FightCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/MillersBridge_13_BossRoom_uid105.unity,True,False,0,CAM_MammonIntro_C1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/MillersBridge_13_BossRoom_uid105.unity,True,False,0,CAM_MammonIntro_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/MillersBridge_13_BossRoom_uid105.unity,True,False,0,CAM_Mammon_Absorption,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/MillersBridge_13_BossRoom_uid105.unity,True,False,0,CAM_MammonIntro_B2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/MillersBridge_13_BossRoom_uid105.unity,True,False,0,CAM_MammonIntro_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/MillersBridge_13_BossRoom_uid105.unity,True,False,0,CAM_MammonIntro_B1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_03_Catacombs/MillersBridge_13_BossRoom_uid105.unity,True,False,0,CAM_MammonIntro_C2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_FastTravelRoom_uid76.unity,True,False,0,CAM_Absorption,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_260_uid131.unity,True,False,0,CameraRoofSurprise,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_BossRoom_Doppelganger_uid144.unity,True,False,0,CAM_DoppelgangerIntro_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_BossRoom_Doppelganger_uid144.unity,True,False,0,CAM_DoppelgangerIntro_B2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_BossRoom_Doppelganger_uid144.unity,True,False,0,CAM_DoppelgangerDeath_D1,0,1000,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_BossRoom_Doppelganger_uid144.unity,True,False,0,CAM_DoppelgangerIntro_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_BossRoom_Doppelganger_uid144.unity,True,False,0,CAM_DoppelgangerIntro_B1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_BossRoom_Doppelganger_uid144.unity,True,False,0,CAM_Doppelganger_Absorption,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_BossRoom_Doppelganger_uid144.unity,True,False,0,CAM_DoppelgangerIntro_B3,0,999,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_BossRoom_Doppelganger_uid144.unity,True,False,0,CAM_Doppelganger_Outro,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_010_uid89.unity,True,False,0,CameraNarthex,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_010_uid89.unity,True,False,0,CameraLeftNarthex,0,12,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_030_uid91.unity,True,False,0,CameraSacredTree,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_035_uid123.unity,True,False,0,DeathIntro_Cam_B2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_035_uid123.unity,True,False,0,DeathIntro_Cam_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_035_uid123.unity,True,False,0,DeathIntro_Cam_E1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_035_uid123.unity,True,False,0,DeathAbsorption_Cam_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_035_uid123.unity,True,False,0,DeathIntro_Cam_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_035_uid123.unity,True,False,0,DeathIntro_Cam_C2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_035_uid123.unity,True,False,0,DeathIntro_Cam_E2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_035_uid123.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_035_uid123.unity,True,False,0,GPE_PunctualVirtualCamera (1),0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_035_uid123.unity,True,False,0,DeathIntro_Cam_D2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_035_uid123.unity,True,False,0,DeathAbsorption_Cam_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_035_uid123.unity,True,False,0,DeathIntro_Cam_D1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_035_uid123.unity,True,False,0,DeathIntro_Cam_B1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_035_uid123.unity,True,False,0,DeathIntro_Cam_C1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_045_uid110.unity,True,False,0,GPE_PunctualVirtualCamera,0,13,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_045_uid110.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_048_uid130.unity,True,False,0,CameraRightTower,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_048_uid130.unity,True,False,0,CameraRightTower,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_050_uid93.unity,True,False,0,CameraSpireDollyMiddle,0,12,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_050_uid93.unity,True,False,0,Death_Clue05_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_050_uid93.unity,True,False,0,CameraTopSpire,0,13,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_050_uid93.unity,True,False,0,CameraSpireDolly,0,12,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_050_uid93.unity,True,False,0,CameraSpireStomp,0,14,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_055_uid135.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (2),0,12,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_055_uid135.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_060_uid94.unity,True,False,0,CameraDoorOpening,0,12,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_060_uid94.unity,True,False,0,CameraNave,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_080_uid95.unity,True,False,0,CameraStairs,0,12,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_085_uid108.unity,True,False,0,GPE_PunctualVirtualCamera,0,12,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_085_uid108.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (2),0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_085_uid108.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_085_uid108.unity,True,False,0,CameraLowerApse,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_105_uid100.unity,True,False,0,CameraStainedGlassCorridor,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_105_uid100.unity,True,False,0,Death_Clue06_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_105_uid100.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_120_uid98.unity,True,False,0,CameraLeftTower,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_120_uid98.unity,True,False,0,GPE_PunctualVirtualCamera,0,12,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_120_uid98.unity,True,False,0,CameraLeftTower (1),0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_135_uid101.unity,True,False,0,CameraSotNSpikes,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_140_uid80.unity,True,False,0,CameraLaserGateDeath,0,12,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_145_uid96.unity,True,False,0,GPE_PunctualVirtualCamera,0,12,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_165_uid90.unity,True,False,0,Justice_Challenge_Finish_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_165_uid90.unity,True,False,0,4virtue_Quest_Finish2_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_165_uid90.unity,True,False,0,Strenght_Challenge_Finish_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_165_uid90.unity,True,False,0,ND_Prophecy_EntranceEast_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_165_uid90.unity,True,False,0,CAM_SyphaAppear_B2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_165_uid90.unity,True,False,0,4virtue_Quest_Finish_Near2_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_165_uid90.unity,True,False,0,Camera4Virtues,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_165_uid90.unity,True,False,0,CAM_SyphaAppear_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_165_uid90.unity,True,False,0,ND_Prophecy_EntranceWest_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_165_uid90.unity,True,False,0,CAM_SyphaAppear_B1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_165_uid90.unity,True,False,0,Prudence_Challenge_Finish_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_165_uid90.unity,True,False,0,CAM_SyphaAppear_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_165_uid90.unity,True,False,0,4virtue_Quest_Finish_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_165_uid90.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_165_uid90.unity,True,False,0,4virtue_Quest_Finish_Near1_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_165_uid90.unity,True,False,0,Temperance_Challenge_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_175_uid105.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_185_uid99.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (2),0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_185_uid99.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,12,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_195_uid111.unity,True,False,0,Death_Clue_004_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_210_uid116.unity,True,False,1,CAM_DeaconQuarter_B3,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_210_uid116.unity,True,False,1,CAM_DeaconQuarter_Interactible_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_210_uid116.unity,True,False,1,CAM_DeaconQuarter_B1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_210_uid116.unity,True,False,1,CAM_DeaconQuarter_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_210_uid116.unity,True,False,1,CAM_DeaconQuarter_B2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_210_uid116.unity,True,False,1,CAM_DeaconQuarter_A4,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_210_uid116.unity,True,False,1,CAM_DeaconQuarter_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_210_uid116.unity,True,False,1,CAM_DeaconQuarter_Far,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_210_uid116.unity,True,False,1,CAM_DeaconQuarter_A3,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_220_uid122.unity,True,False,0,CameraDoorOpening,0,12,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_220_uid122.unity,True,False,0,CameraEastNaveGatesClosed,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_225_uid104.unity,True,False,0,GPE_PunctualVirtualCamera,0,12,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_225_uid104.unity,True,False,0,CameraUpperApse,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_225_uid104.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_230_uid138.unity,True,False,0,CameraUpperApse,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_235_uid109.unity,True,False,0,CameraLaserCorridor,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_300_uid128.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_300_uid128.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_300_uid128.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_300_uid128.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_300_uid128.unity,True,False,0,Justice_Challenge_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_300_uid128.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,13,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_302_uid133.unity,True,False,0,CameraSpireDolly,1,12,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_302_uid133.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_302_uid133.unity,True,False,0,Temperance_Challenge_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_303_uid134.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_303_uid134.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_303_uid134.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_303_uid134.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_303_uid134.unity,True,False,0,Prudence_Challenge_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_303_uid134.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_304_uid143.unity,True,False,0,CAM_StrenghtIntro_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_304_uid143.unity,True,False,0,CAM_StrenghtIntro_B1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_304_uid143.unity,True,False,0,CAM_StrenghtIntro_B2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_304_uid143.unity,True,False,0,CameraVirtueStrength_AfterJeanne,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_304_uid143.unity,True,False,0,CAM_StrenghtIntro_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_304_uid143.unity,True,False,0,Strenght_Challenge_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_304_uid143.unity,True,False,0,CAM_StrenghtIntro_C3,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_304_uid143.unity,True,False,0,CAM_StrenghtIntro_C2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_304_uid143.unity,True,False,0,CAM_StrenghtIntro_C1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_666_uid112.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_666_uid112.unity,True,False,0,NotreDame_Organ_Clue003_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_666_uid112.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,13,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_Boss_Arthur_uid121.unity,True,False,0,CAM_ArthurIntro_B1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_Boss_Arthur_uid121.unity,True,False,0,CAM_ArthurIntro_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_Boss_Arthur_uid121.unity,True,False,0,CAM_ArthurIntro_D2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_Boss_Arthur_uid121.unity,True,False,0,CAM_ArthurIntro_C1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_Boss_Arthur_uid121.unity,True,False,0,CAM_ArthurIntro_B2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_Boss_Arthur_uid121.unity,True,False,0,CAM_ArthurIntro_C2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_Boss_Arthur_uid121.unity,True,False,0,CAM_ArthurIntro_D1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_Boss_Arthur_uid121.unity,True,False,0,CAM_Arthur_Outro,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_Boss_Arthur_uid121.unity,True,False,0,BossFight_Camera,0,20,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_Boss_Arthur_uid121.unity,True,False,0,CAM_Arthur_Absorption,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_Room_Boss_Arthur_uid121.unity,True,False,0,CAM_ArthurIntro_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_SaveRoom_010_uid140.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_SaveRoom_020_uid141.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_05_NotreDame/NotreDame_MVP_SaveRoom_030_uid142.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_FastTravelRoom_uid274.unity,True,False,0,CAM_Absorption,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_302_uid231.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_302_uid231.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_01_uid246.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_012_uid234.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,13,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_012_uid234.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_012_uid234.unity,True,False,0,CameraBraunerShowAtelier,0,13,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_02_uid247.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_02_uid247.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_02_uid247.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_02_uid247.unity,True,False,0,GPE_PunctualVirtualCamera_FramingTransposer_RoomChange,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_02_uid247.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_02_uid247.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_02_uid247.unity,True,False,0,GPE_PunctualVirtualCamera_FramingTransposer_RoomChange (1),0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_02_uid247.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_02_uid247.unity,True,False,0,GPE_PunctualVirtualCamera_FramingTransposer_RoomChange (2),0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_02_uid247.unity,True,False,0,GPE_PunctualVirtualCamera_FramingTransposer_RoomChange (1),0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_02_uid247.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_02_uid247.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_02_uid247.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_03_uid248.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_03_uid248.unity,True,False,0,CameraBridgeUnzoomed (1),0,14,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_03_uid248.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_03_uid248.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_03_uid248.unity,True,False,0,Camera_Hub_Level_02ExtraCamera,0,15,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_03_uid248.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_03_uid248.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_03_uid248.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_03_uid248.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_03_uid248.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_03_uid248.unity,True,False,0,Camera_Hub _HubLevel_4,0,13,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_03_uid248.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_03_uid248.unity,True,False,0,CameraTransition_Level,0,12,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_03_uid248.unity,True,False,0,Camera_Level,0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_03_uid248.unity,True,False,0,CameraTransition_Level,0,12,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_03_uid248.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_03_uid248.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_03_uid248.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_03_uid248.unity,True,False,0,Camera_Level,0,13,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_03_uid248.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_03_uid248.unity,True,False,0,CameraTransition_Level,0,12,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_03_uid248.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_03_uid248.unity,True,False,0,Camera_Hub,0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_03_uid248.unity,True,False,0,Camera_Level,0,13,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_030_uid201.unity,True,False,0,CorridorTrapFightCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_030_uid201.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_030_uid201.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_031_uid232.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_031_uid232.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_031_uid232.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_031_uid232.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_040_uid202.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_040_uid202.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_040_uid202.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_040_uid202.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_040_uid202.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_040_uid202.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_041_uid238.unity,True,False,0,ElevatorsRoomCamera,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_050_uid278.unity,True,False,0,Brauner_Clue02_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_051_uid240.unity,True,False,0,CameraFlippingPuzzle,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_060_uid210.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_060_uid210.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_060_uid210.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_060_uid210.unity,True,False,0,CameraCastleTowerRightHalf,0,13,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_060_uid210.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_060_uid210.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_060_uid210.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_060_uid210.unity,True,False,0,CameraCastleTowerLeftHalf,0,12,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_060_uid210.unity,True,False,0,CameraCastleTowerRightHalf,0,14,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_060_uid210.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_07_uid252.unity,True,False,0,CameraAlucardTower_03,0,13,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_070_uid213.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_070_uid213.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_070_uid213.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_070_uid213.unity,True,False,0,GPE_PunctualVirtualCamera_FramingTransposer_RoomChange,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_08_uid253.unity,True,False,0,GPE_PunctualVirtualCamera_FramingTransposer_RoomChange (1),0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_08_uid253.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_08_uid253.unity,True,False,0,GPE_PunctualVirtualCamera_FramingTransposer_RoomChange (2),0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_08_uid253.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_08_uid253.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_08_uid253.unity,True,False,0,GPE_PunctualVirtualCamera_01,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_08_uid253.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_08_uid253.unity,True,False,0,GPE_PunctualVirtualCamera_02,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_08_uid253.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_08_uid253.unity,True,False,0,GPE_PunctualVirtualCamera_FramingTransposer_RoomChange,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_080_uid245.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_080_uid245.unity,True,False,0,Talos_Clue01_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_09_uid254.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_12_uid257.unity,True,False,0,CAM_EleanorOpen_Near2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_12_uid257.unity,True,False,0,CAM_EleanorTrapped_Near1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_12_uid257.unity,True,False,0,CAM_Eleanor_Far1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_12_uid257.unity,True,False,0,CAM_EleanorOpen_Near1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_12_uid257.unity,True,False,0,CAM_EleanorTrapped_Near2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_12_uid257.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_12_uid257.unity,True,False,0,CAM_Eleanor_Far2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1345_uid199.unity,True,False,0,CAM_NDPainting_B1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1345_uid199.unity,True,False,0,CAM_NDPainting_C1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1345_uid199.unity,True,False,0,CAM_NDPainting_B2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1345_uid199.unity,True,False,0,CAM_NDPainting_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1345_uid199.unity,True,False,0,CAM_NDPainting_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1345_uid199.unity,True,False,0,CAM_NDPainting_D1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1345_uid199.unity,True,False,0,CAM_NDPainting_C2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1345_uid199.unity,True,False,0,CAM_NDPainting_D2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_15_uid260.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_15_uid260.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_15_uid260.unity,True,False,0,CameraBallroom,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_15_uid260.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_16_uid261.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_16_uid261.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_16_uid261.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_17_uid262.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_17_uid262.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_17_uid262.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_17_uid262.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_19_uid265.unity,True,False,0,CameraBridgeUnzoomed (1),0,14,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1903_uid207.unity,True,False,0,CameraBraunerShowAtelier,0,13,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1903_uid207.unity,True,False,0,CAM_BraunerIntro_C2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1903_uid207.unity,True,False,0,CAM_BraunerIntro_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1903_uid207.unity,True,False,0,CAM_BraunerIntro_C1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1903_uid207.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1903_uid207.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,14,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1903_uid207.unity,True,False,0,CAM_BraunerIntro_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1903_uid207.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1903_uid207.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1903_uid207.unity,True,False,0,CAM_BraunerIntro_B2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1903_uid207.unity,True,False,0,CameraBraunerAtelierTransition (1),0,13,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1903_uid207.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,12,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1903_uid207.unity,True,False,0,CAM_Brauner_Outro,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1903_uid207.unity,True,False,0,Carmilla_Clue01_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1903_uid207.unity,True,False,0,CAM_Slash,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1903_uid207.unity,True,False,0,CAM_BraunerIntro_B1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1903_uid207.unity,True,False,0,CameraBraunerShowAtelier (1),0,13,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1903_uid207.unity,True,False,0,CAM_Brauer_Absorption,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1986_uid220.unity,True,False,0,MainHall_FirstTime_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1987_uid242.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1987_uid242.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1987_uid242.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1987_uid242.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_1987_uid242.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_20_uid266.unity,True,False,0,CameraArena,0,14,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_20_uid266.unity,True,False,0,CameraTopPart,0,14,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_20_uid266.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_21_uid267.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_21_uid267.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_21_uid267.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_21_uid267.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_21_uid267.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_211_uid230.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_211_uid230.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_23_uid271.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_27_uid276.unity,True,False,0,CameraBraunerClueRoom_03,0,13,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_27_uid276.unity,True,False,0,CameraBraunerClueRoom_01,0,13,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_28_uid277.unity,True,False,0,CameraBraunerClueRoom_01,0,13,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_28_uid277.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_28_uid277.unity,True,False,0,CameraBraunerClueRoom_03,0,13,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_28_uid277.unity,True,False,0,MainHall_BraunerClue_003_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_28_uid277.unity,True,False,0,CameraBraunerClueRoom_02,0,13,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_560_uid196.unity,True,False,0,GPE_CameraPoolTrapdoorOpened,0,13,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_560_uid196.unity,True,False,0,StatueClue_FirstTime_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_560_uid196.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_560_uid196.unity,True,False,0,GPE_CameraCorridor,0,15,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_560_uid196.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_560_uid196.unity,True,False,0,GPE_CameraPoolInit,0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_560_uid196.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_560_uid196.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_560_uid196.unity,True,False,0,GPE_CameraPoolSecretFound,0,14,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_560_uid196.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_560_uid196.unity,True,False,0,GPE_CameraLootZone,0,15,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_560_uid196.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_560_uid196.unity,True,False,0,InsidePaintingFollowCam,0,0,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_MVP_Room_Transition_ClockTower_uid209.unity,True,False,0,CameraBridgeClockTower,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_Room_1000_uid243.unity,True,False,0,CAM_Outro_PlanA2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_Room_1000_uid243.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_Room_1000_uid243.unity,True,False,0,CAM_PlanA2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_Room_1000_uid243.unity,True,False,0,CAM_Outro_PlanB1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_Room_1000_uid243.unity,True,False,0,CAM_PlanA3,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_Room_1000_uid243.unity,True,False,0,CAM_PlanB2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_Room_1000_uid243.unity,True,False,0,CAM_Outro_PlanD1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_Room_1000_uid243.unity,True,False,0,CAM_PlanC2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_Room_1000_uid243.unity,True,False,0,CAM_Outro_PlanC1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_Room_1000_uid243.unity,True,False,0,CAM_PlanC1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_Room_1000_uid243.unity,True,False,0,CAM_PlanA1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_Room_1000_uid243.unity,True,False,0,CAM_Outro_PlanC2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_Room_1000_uid243.unity,True,False,0,CAM_Outro_PlanB2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_Room_1000_uid243.unity,True,False,0,CAM_Outro_PlanA1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_Room_1000_uid243.unity,True,False,0,CAM_Outro_PlanD2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_Room_1000_uid243.unity,True,False,0,CAM_PlanA4,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_Room_1000_uid243.unity,True,False,0,CAM_PlanB1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_Room_980_uid194.unity,True,False,0,CameraBridgeUnzoomed_2,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_Room_980_uid194.unity,True,False,0,CameraBridgeUnzoomed,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_Room_980_uid194.unity,True,False,0,CameraBridgeUnzoomed (1),0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_Room_980_uid194.unity,True,False,0,CastleBridge_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_Room_980_uid194.unity,True,False,0,CameraBridgeUnzoomed_2,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_Room_980_uid194.unity,True,False,0,CameraBridge,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_SaveRoom_010_uid91.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_SaveRoom_020_uid132.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_SaveRoom_030_uid221.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_SaveRoom_040_uid223.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_SaveRoom_050_uid149.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_SaveRoom_060_uid167.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_SaveRoom_070_uid264.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_SaveRoom_080_uid268.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_06_MainHall/MainHall_SaveRoom_090_uid269.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Gym_Boss_Carmilla_Room01_uid133.unity,True,False,0,CAM_Intro_B2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Gym_Boss_Carmilla_Room01_uid133.unity,True,False,0,CAM_Intro_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Gym_Boss_Carmilla_Room01_uid133.unity,True,False,0,CAM_Intro_C1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Gym_Boss_Carmilla_Room01_uid133.unity,True,False,0,CAM_Intro_D1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Gym_Boss_Carmilla_Room01_uid133.unity,True,False,0,CAM_Intro_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Gym_Boss_Carmilla_Room01_uid133.unity,True,False,0,BossFight_Camera,0,20,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Gym_Boss_Carmilla_Room01_uid133.unity,True,False,0,CAM_Intro_C3,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Gym_Boss_Carmilla_Room01_uid133.unity,True,False,0,CAM_Intro_C2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Gym_Boss_Carmilla_Room01_uid133.unity,True,False,0,CAM_Outro,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Gym_Boss_Carmilla_Room01_uid133.unity,True,False,0,CAM_Intro_D2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Gym_Boss_Carmilla_Room01_uid133.unity,True,False,0,CAM_Intro_B1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Gym_Boss_Carmilla_Room01_uid133.unity,True,False,0,CAM_Absorption,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_FastTravelRoom_uid142.unity,True,False,0,CAM_Absorption,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_01_uid94.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_04_uid97.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_05_uid98.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_06_uid99.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_07_uid100.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_10_uid103.unity,True,False,0,Carmilla_clue01_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_10_uid103.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_11_uid104.unity,True,False,0,CameraSpireDolly,0,12,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_12_uid105.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_13_uid106.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_13_uid106.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_13_uid106.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_14_uid107.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_14_uid107.unity,True,False,0,Carmilla_Clue_002_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_15_uid108.unity,True,False,0,Carmilla_Clue02_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_15_uid108.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,1,10,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_17_uid110.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_17_uid110.unity,True,False,0,Carmilla_Clue_003_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_21_uid116.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_21_uid116.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_21_uid116.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_22_uid117.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_23_uid118.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_24_uid119.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_31_uid127.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_MVP_Room_32_uid128.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_SaveRoom_01_uid140.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_08_Library/Library_SaveRoom_02_uid141.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_FastTravelRoom_uid82.unity,True,False,0,CAM_Absorption,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room02_uid100.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room03_uid101.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room03_uid101.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room03_uid101.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room04_uid102.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room04_uid102.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room06_uid104.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room08_uid106.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room10_uid108.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room12_uid110.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room14_uid112.unity,True,False,0,CAM_DeathTrap_BadEnding_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room14_uid112.unity,True,False,0,DeathTrap_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room14_uid112.unity,True,False,0,CAM_DeathTrap_BadEnding_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room17_uid116.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room21_uid120.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room24_uid123.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room25_uid124.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room25_uid124.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room28_uid128.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room34_uid134.unity,True,False,0,CAM_TalosIntro_B2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room34_uid134.unity,True,False,0,CAM_TalosIntro_D2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room34_uid134.unity,True,False,0,CAM_TalosOutro_A,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room34_uid134.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room34_uid134.unity,True,False,0,CAM_Talos_Absorption,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room34_uid134.unity,True,False,0,CAM_TalosIntro_C2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room34_uid134.unity,True,False,0,CAM_TalosIntro_E2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room34_uid134.unity,True,False,0,CAM_TalosIntro_A3,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room34_uid134.unity,True,False,0,CAM_TalosIntro_C1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room34_uid134.unity,True,False,0,CAM_TalosIntro_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room34_uid134.unity,True,False,0,TalosFightCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room34_uid134.unity,True,False,0,CAM_TalosIntro_E1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room34_uid134.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room34_uid134.unity,True,False,0,CAM_TalosIntro_A4,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room34_uid134.unity,True,False,0,CAM_TalosIntro_D1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room34_uid134.unity,True,False,0,CAM_TalosIntro_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room34_uid134.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room34_uid134.unity,True,False,0,CAM_TalosIntro_B1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room34_uid134.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room36_uid136.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room37_uid137.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room41_uid141.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room41_uid141.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room41_uid141.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room42_uid144.unity,True,False,0,GPE_PunctualVirtualCamera,0,12,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room42_uid144.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room44_uid146.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room45_uid147.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,12,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room46_uid148.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room46_uid148.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room46_uid148.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room47_uid150.unity,True,False,0,CAM_Isaac_Outro,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room47_uid150.unity,True,False,0,CAM_IsaacIntro_A,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room47_uid150.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room47_uid150.unity,True,False,0,CAM_IsaacIntro_E,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room47_uid150.unity,True,False,0,CAM_IsaacIntro_C,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room47_uid150.unity,True,False,0,CAM_Isaac_Absorption,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room47_uid150.unity,True,False,0,CAM_IsaacIntro_D,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room47_uid150.unity,True,False,0,CAM_IsaacIntro_B,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room47_uid150.unity,True,False,0,CAM_IsaacIntro_F,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room47_uid150.unity,True,False,0,CAM_IsaacIntro_G,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room55_uid159.unity,True,False,0,Talos_Clue02_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room55_uid159.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room55_uid159.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room55_uid159.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room55_uid159.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room55_uid159.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room55_uid159.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room57_uid161.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room57_uid161.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room57_uid161.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab (1),0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room58_uid162.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room58_uid162.unity,True,False,0,Eleanor_Clue03_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room59_uid163.unity,True,False,0,Isaac_Clue01_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room59_uid163.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room59_uid163.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_Room66_uid170.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower_MVP_SaveRoom01_uid149.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower02_SaveRoom01_uid52.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower02_SaveRoom04_uid83.unity,True,True,1,CAM_PostBadEnding_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower02_SaveRoom04_uid83.unity,True,True,1,CAM_PostBadEnding_A2_Random,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower02_SaveRoom04_uid83.unity,True,True,1,CAM_PostBadEnding_A1_Random,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower02_SaveRoom04_uid83.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_09_ClockTower/ClockTower02_SaveRoom04_uid83.unity,True,True,1,CAM_PostBadEnding_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/Gym_Boss_SuccubusAgnes_uid144.unity,True,False,0,CAM_SuccubusIntro_E4,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/Gym_Boss_SuccubusAgnes_uid144.unity,True,False,0,CAM_SuccubusIntro_G1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/Gym_Boss_SuccubusAgnes_uid144.unity,True,False,0,CAM_SuccubusIntro_E3,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/Gym_Boss_SuccubusAgnes_uid144.unity,True,False,0,CAM_SuccubusIntro_F1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/Gym_Boss_SuccubusAgnes_uid144.unity,True,False,0,CAM_Succubus_Absorption,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/Gym_Boss_SuccubusAgnes_uid144.unity,True,False,0,CAM_SuccubusIntro_B4,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/Gym_Boss_SuccubusAgnes_uid144.unity,True,False,0,CAM_SuccubusIntro_E2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/Gym_Boss_SuccubusAgnes_uid144.unity,True,False,0,CAM_SuccubusIntro_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/Gym_Boss_SuccubusAgnes_uid144.unity,True,False,0,CAM_Succubus_Outro,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/Gym_Boss_SuccubusAgnes_uid144.unity,True,False,0,CAM_SuccubusIntro_D,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/Gym_Boss_SuccubusAgnes_uid144.unity,True,False,0,CAM_SuccubusIntro_B3,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/Gym_Boss_SuccubusAgnes_uid144.unity,True,False,0,CAM_SuccubusIntro_B2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/Gym_Boss_SuccubusAgnes_uid144.unity,True,False,0,CAM_SuccubusIntro_C,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/Gym_Boss_SuccubusAgnes_uid144.unity,True,False,0,CAM_SuccubusIntro_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/Gym_Boss_SuccubusAgnes_uid144.unity,True,False,0,CAM_SuccubusIntro_B1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/Gym_Boss_SuccubusAgnes_uid144.unity,True,False,0,CAM_SuccubusIntro_F2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/Gym_Boss_SuccubusAgnes_uid144.unity,True,False,0,CAM_SuccubusIntro_G2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_FastTravelRoom_uid91.unity,True,False,0,CAM_Absorption,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_01_uid98.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_01_uid98.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_02_uid100.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_04_uid102.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_04_uid102.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_04_uid102.unity,True,False,0,Eleanor_Clue02_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_04_uid102.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_04_uid102.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_05_uid103.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_07_uid105.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_09_uid107.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_09_uid107.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_10_uid108.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_11_uid109.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_14_uid112.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_15_uid113.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_15_uid113.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_15_uid113.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_15_uid113.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_16_uid114.unity,True,False,0,Succubus_Clue03_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_16_uid114.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_17_uid115.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_17_uid115.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_18_uid116.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_18_uid116.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_18_uid116.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_19_uid117.unity,True,False,0,HoM_SyphaVoice_01_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_21_uid120.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_22_uid121.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_22_uid121.unity,True,False,0,Eleanor_Clue01_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_23_uid122.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_23_uid122.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_24_uid123.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_24_uid123.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_26_uid125.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_27_uid126.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_28_uid127.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_30_uid129.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_30_uid129.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_30_uid129.unity,True,False,0,GPE_PunctualVirtualCamera_TrackedDollyChildren_DONOTUSE,0,11,CinemachineTrackedDolly,Rail,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_32_uid131.unity,True,False,0,HoM_SyphaVoice_03_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_33_uid133.unity,True,False,0,HoM_SyphaVoice02_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_40_uid143.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_40_uid143.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_40_uid143.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_Room_40_uid143.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_SaveRoom_02_uid118.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_SaveRoom_03_uid132.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_SaveRoom_04_uid136.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrors_MVP_SaveRoom_04_uid136.unity,True,True,1,Eleanor_Clue04_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrorsV2_SaveRoom01_uid58.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_10_HallOfMirrors/HallOfMirrorsV2_SaveRoom04_uid87.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/Gym_Boss_Dracula_Phase2_BossRoom_uid19.unity,True,False,0,CAM_DraculaBeast_Outro_C1_RoseShield,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/Gym_Boss_Dracula_Phase2_BossRoom_uid19.unity,True,False,0,CAM_Dracula_TrueEnding_GoodbyeTransitionEnd,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/Gym_Boss_Dracula_Phase2_BossRoom_uid19.unity,True,False,0,GameManagement_GameplayVirtualCamera_Prefab,0,100,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/Gym_Boss_Dracula_Phase2_BossRoom_uid19.unity,True,False,0,CAM_DraculaBeast_Outro_B1_DracuCurse,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/Gym_Boss_Dracula_Phase2_BossRoom_uid19.unity,True,False,0,CAM_DraculaBeast_TrueEnding_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/Gym_Boss_Dracula_Phase2_BossRoom_uid19.unity,True,False,0,CAM_DraculaBeast_Outro_B2_DracuCurse,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/Gym_Boss_Dracula_Phase2_BossRoom_uid19.unity,True,False,0,CAM_Dracula_TrueEnding_SelfSpell_Release,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/Gym_Boss_Dracula_Phase2_BossRoom_uid19.unity,True,False,0,CAM_DraculaBeast_Outro_TriggerSpell,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/Gym_Boss_Dracula_Phase2_BossRoom_uid19.unity,True,False,0,CAM_DraculaBeast_Intro_C1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/Gym_Boss_Dracula_Phase2_BossRoom_uid19.unity,True,False,0,CAM_DraculaBeast_Intro_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/Gym_Boss_Dracula_Phase2_BossRoom_uid19.unity,True,False,0,CAM_DraculaBeast_Intro_A3,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/Gym_Boss_Dracula_Phase2_BossRoom_uid19.unity,True,False,0,CAM_DraculaBeast_TrueEnding_B1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/Gym_Boss_Dracula_Phase2_BossRoom_uid19.unity,True,False,0,CAM_DraculaBeast_Outro_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/Gym_Boss_Dracula_Phase2_BossRoom_uid19.unity,True,False,0,CAM_DraculaBeast_Intro_B1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/Gym_Boss_Dracula_Phase2_BossRoom_uid19.unity,True,False,0,CAM_DraculaBeast_Intro_C2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/Gym_Boss_Dracula_Phase2_BossRoom_uid19.unity,True,False,0,CAM_DraculaBeast_TrueEnding_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/Gym_Boss_Dracula_Phase2_BossRoom_uid19.unity,True,False,0,CAM_DraculaBeast_Intro_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/Gym_Boss_Dracula_Phase2_BossRoom_uid19.unity,True,False,0,CAM_DraculaBeast_Outro_C2_Self,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/Gym_Boss_Dracula_Phase2_BossRoom_uid19.unity,True,False,0,CAM_DraculaBeast_Intro_B2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/Gym_Boss_Dracula_Phase2_BossRoom_uid19.unity,True,False,0,CAM_DraculaBeast_Outro_D1_DracuFlyClose,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/Gym_Boss_Dracula_Phase2_BossRoom_uid19.unity,True,False,0,CAM_DraculaBeast_Outro_C2_RoseShield,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/Gym_Boss_Dracula_Phase2_BossRoom_uid19.unity,True,False,0,CAM_Dracula_TrueEnding_GoodbyeTransitionStart,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/Gym_Boss_Dracula_Phase2_BossRoom_uid19.unity,True,False,0,CAM_Dracula_TrueEnding_Mind_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/Gym_Boss_Dracula_Phase2_BossRoom_uid19.unity,True,False,0,CAM_DraculaBeast_Outro_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_DraculaBossRoom_uid7.unity,True,False,0,CAM_DraculaIntro_G1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_DraculaBossRoom_uid7.unity,True,False,0,CAM_DraculaIntro_E1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_DraculaBossRoom_uid7.unity,True,False,0,CAM_DraculaIntro_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_DraculaBossRoom_uid7.unity,True,False,0,CAM_DraculaIntro_D1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_DraculaBossRoom_uid7.unity,True,False,0,CAM_DraculaIntro_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_DraculaBossRoom_uid7.unity,True,False,0,CAM_DraculaOutro_B1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_DraculaBossRoom_uid7.unity,True,False,0,CAM_DraculaIntro_C2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_DraculaBossRoom_uid7.unity,True,False,0,CAM_DraculaIntro_G2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_DraculaBossRoom_uid7.unity,True,False,0,CAM_DraculaIntro_D2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_DraculaBossRoom_uid7.unity,True,False,0,CAM_DraculaOutro_B2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_DraculaBossRoom_uid7.unity,True,False,0,CAM_DraculaIntro_E2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_DraculaBossRoom_uid7.unity,True,False,0,CAM_DraculaOutro_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_DraculaBossRoom_uid7.unity,True,False,0,CAM_DraculaOutro_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_DraculaBossRoom_uid7.unity,True,False,0,CAM_DraculaIntro_F1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_DraculaBossRoom_uid7.unity,True,False,0,CAM_DraculaIntro_B2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_DraculaBossRoom_uid7.unity,True,False,0,CAM_DraculaIntro_F2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_DraculaBossRoom_uid7.unity,True,False,0,CAM_DraculaIntro_B1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_DraculaBossRoom_uid7.unity,True,False,0,CAM_DraculaIntro_C1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_DraculaBossRoom_uid7.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_FastTravelRoom_uid17.unity,True,False,0,CAM_Absorption,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_Room_02_uid5.unity,True,False,0,MastersQuarters_OutsideVista_GameplayVirtualCamera_Prefab,0,10,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_Room_02_uid5.unity,True,False,0,MQ_FirstTime_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_Room_02_uid5.unity,True,False,0,MQ_Stairs_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_Room_03_uid6.unity,True,False,0,GPE_CameraLeftLever,0,15,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_Room_03_uid6.unity,True,False,0,GPE_CameraCentral,0,15,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_Room_03_uid6.unity,True,False,0,GPE_CameraRightLever,0,15,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_Room_03_uid6.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,CinemachineFramingTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_Room_07_uid15.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_11_MasterQuarter/MastersQuarters_SaveRoom_uid4.unity,True,True,1,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_12_MQBadEnding/MastersQuarters_BadEnding_DraculaBossRoom_uid3.unity,True,False,0,CAM_DraculaBadEnding_A2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_12_MQBadEnding/MastersQuarters_BadEnding_DraculaBossRoom_uid3.unity,True,False,0,CAM_DraculaBadEnding_E2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_12_MQBadEnding/MastersQuarters_BadEnding_DraculaBossRoom_uid3.unity,True,False,0,CAM_DraculaBadEnding_F1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_12_MQBadEnding/MastersQuarters_BadEnding_DraculaBossRoom_uid3.unity,True,False,0,CAM_DraculaBadEnding_RoseKnee,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_12_MQBadEnding/MastersQuarters_BadEnding_DraculaBossRoom_uid3.unity,True,False,0,CAM_DraculaBadEnding_Fight_2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_12_MQBadEnding/MastersQuarters_BadEnding_DraculaBossRoom_uid3.unity,True,False,0,CAM_DraculaBadEnding_B1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_12_MQBadEnding/MastersQuarters_BadEnding_DraculaBossRoom_uid3.unity,True,False,0,CAM_DraculaBadEnding_Fight_1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_12_MQBadEnding/MastersQuarters_BadEnding_DraculaBossRoom_uid3.unity,True,False,0,CAM_DraculaBadEnding_D2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_12_MQBadEnding/MastersQuarters_BadEnding_DraculaBossRoom_uid3.unity,True,False,0,CAM_DraculaBadEnding_G1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_12_MQBadEnding/MastersQuarters_BadEnding_DraculaBossRoom_uid3.unity,True,False,0,CAM_DraculaBadEnding_G1death,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_12_MQBadEnding/MastersQuarters_BadEnding_DraculaBossRoom_uid3.unity,True,False,0,CAM_DraculaBadEnding_F2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_12_MQBadEnding/MastersQuarters_BadEnding_DraculaBossRoom_uid3.unity,True,False,0,CAM_DraculaBadEnding_G2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_12_MQBadEnding/MastersQuarters_BadEnding_DraculaBossRoom_uid3.unity,True,False,0,CAM_DraculaBadEnding_B2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_12_MQBadEnding/MastersQuarters_BadEnding_DraculaBossRoom_uid3.unity,True,False,0,CAM_DraculaBadEnding_A1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_12_MQBadEnding/MastersQuarters_BadEnding_DraculaBossRoom_uid3.unity,True,False,0,CAM_DraculaBadEnding_C1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_12_MQBadEnding/MastersQuarters_BadEnding_DraculaBossRoom_uid3.unity,True,False,0,CAM_DraculaBadEnding_D1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_12_MQBadEnding/MastersQuarters_BadEnding_DraculaBossRoom_uid3.unity,True,False,0,CAM_DraculaBadEnding_C2,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_12_MQBadEnding/MastersQuarters_BadEnding_DraculaBossRoom_uid3.unity,True,False,0,CAM_DraculaBadEnding_E1,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_12_MQBadEnding/MastersQuarters_BadEnding_Room_07_uid5.unity,True,False,0,FMQ_BadEnding_Entrance_SimpleCamera,1,-1,CinemachineTransposer,Transposer,Allow remembered toggle
+Assets/Generated/Scenes/World_Biome_12_MQBadEnding/MastersQuarters_BadEnding_Room_07_uid5.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_12_MQBadEnding/MastersQuarters_BadEnding_Room_07b_uid6.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_12_MQBadEnding/MastersQuarters_BadEnding_Room_07c_uid7.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Biome_12_MQBadEnding/MastersQuarters_BadEnding_Room_07d_uid8.unity,True,False,0,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Gym_Hover_Family/Gym_Hover_SaveRoom_uid13.unity,False,True,2,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
+Assets/Generated/Scenes/World_Gym_Special_Family/Gym_Special_SaveRoom_uid18.unity,False,True,2,GPE_PunctualVirtualCamera,0,11,,Static,Standard framing; retain remembered toggle
