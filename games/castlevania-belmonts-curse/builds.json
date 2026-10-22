@@ -11,8 +11,8 @@
     "title_id": "0100BA4026E94000",
     "build_id": "0F1169AA7D0FA4529C861F96ADEC306E",
     "mods": {
-      "4x3 v7.2 (1.1.0)": {
-        "path": "4x3 v7.2 (1.1.0)/exefs/4x3 v7.2 (1.1.0).pchtxt",
+      "4x3 v3 (1.1.0)": {
+        "path": "4x3 v3 (1.1.0)/exefs/4x3 v3 (1.1.0).pchtxt",
         "sha256": "599e0846b3526f4c66b49af38070c451176767d15477269af63b94f132f1db5c"
       },
       "RenderScale Fix v3 (1.1.0)": {

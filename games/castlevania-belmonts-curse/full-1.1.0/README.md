@@ -11,7 +11,7 @@ These are Eden-compatible `.pchtxt` patches. Native Switch hardware is not valid
 
 | Folder | Purpose | Requirements |
 | --- | --- | --- |
-| `4x3 v7.2 (1.1.0)` | 1280x960 framing, menu fixes, camera tracking corrections, title/loading and video letterboxing | Set emulator aspect ratio to 4:3 |
+| `4x3 v3 (1.1.0)` | 1280x960 framing, menu fixes, camera tracking corrections, title/loading and video letterboxing | Set emulator aspect ratio to 4:3 |
 | `RenderScale Fix v3 (1.1.0)` | Keeps internal rendering at 1.0 at startup and through runtime scale changes | Independent of 4:3; increases GPU workload compared with reduced rendering |
 | `Manual-Zoom v3 (1.1.0)` | R3 toggles expanded framing and a closer, original-height view on tracking cameras | Requires the included 4:3 mod; omit if R3 is needed by another mod |
 
@@ -30,7 +30,7 @@ For example, the game mod directory can contain:
 
 ```text
 0100BA4026E94000/
-  4x3 v7.2 (1.1.0)/exefs/...
+  4x3 v3 (1.1.0)/exefs/...
   RenderScale Fix v3 (1.1.0)/exefs/...
   Manual-Zoom v3 (1.1.0)/exefs/...
 ```
