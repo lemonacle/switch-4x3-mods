@@ -9,7 +9,7 @@ Get the patch-only ZIPs from **[Releases](https://github.com/lemonacle/switch-4x
 | Game | Supported version | Included work | Testing |
 | --- | --- | --- | --- |
 | [Castlevania: Belmont's Curse Demo](games/castlevania-belmonts-curse/README.md) | 1.0.0 | 4:3 V7.1; optional local Render Scale 1x builder | Demo 4:3 tested during play on Nova and PC emulator |
-| [Castlevania: Belmont's Curse](games/castlevania-belmonts-curse/README.md) | 1.1.0 | 4:3 v3, asset-free RenderScale Fix v3, optional R3 Manual Zoom v3 in one ZIP | User-confirmed packages; not every room/cutscene validated |
+| [Castlevania: Belmont's Curse](games/castlevania-belmonts-curse/README.md) | 1.1.0 | 4:3 v4, asset-free RenderScale Fix v3, optional R3 Manual Zoom v3 in one ZIP | User-confirmed packages; not every room/cutscene validated |
 
 Match the **title ID and executable build ID**, not just the game name. A patch for the demo or another update will not necessarily work. These packages target emulator `.pchtxt` support; native Switch hardware has not been tested.
 

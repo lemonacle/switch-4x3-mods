@@ -11,17 +11,23 @@ These are Eden-compatible `.pchtxt` patches. Native Switch hardware is not valid
 
 | Folder | Purpose | Requirements |
 | --- | --- | --- |
-| `4x3 v3 (1.1.0)` | 1280x960 framing, menu fixes, camera tracking corrections, title/loading and video letterboxing | Set emulator aspect ratio to 4:3 |
+| `4x3 v4 (1.1.0)` | 1280x960 framing, menu fixes, camera tracking corrections, title/loading, video, and fast-travel framing | Set emulator aspect ratio to 4:3 |
 | `RenderScale Fix v3 (1.1.0)` | Keeps internal rendering at 1.0 at startup and through runtime scale changes | Independent of 4:3; increases GPU workload compared with reduced rendering |
 | `Manual-Zoom v3 (1.1.0)` | R3 toggles expanded framing and a closer, original-height view on tracking cameras | Requires the included 4:3 mod; omit if R3 is needed by another mod |
 
 RenderScale and 4:3 work independently or together. Manual Zoom is optional;
 the 4:3 mod does not require it. No automatic boundary-driven zoom is included.
 
+## Changes in 4x3 v4
+
+Integrates the Ferryman's Wharf fast-travel fix: the layout uses a centered
+16:9 area within 4:3 to correct stretching and title/tooltip overlap.
+The integrated build passed user QA. RenderScale Fix and Manual Zoom remain v3.
+
 ## Installation
 
 1. Extract this release ZIP on your computer. It is a collection, not a single mod to import wholesale.
-2. Disable older versions of the selected mods, including separate video fixes and old RenderScale asset/runtime packages.
+2. Disable older versions of the selected mods, including Fast Travel Test 1, separate video fixes and old RenderScale asset/runtime packages.
 3. Open the game's mod directory in your emulator. Copy only the named mod folders you want into it. Each folder must directly contain `exefs`.
 4. Enable your selected mods. Use 4:3 in emulator settings when enabling the 4:3 mod.
 5. Fully restart the game.
@@ -30,7 +36,7 @@ For example, the game mod directory can contain:
 
 ```text
 0100BA4026E94000/
-  4x3 v3 (1.1.0)/exefs/...
+  4x3 v4 (1.1.0)/exefs/...
   RenderScale Fix v3 (1.1.0)/exefs/...
   Manual-Zoom v3 (1.1.0)/exefs/...
 ```

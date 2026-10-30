@@ -11,10 +11,6 @@
     "title_id": "0100BA4026E94000",
     "build_id": "0F1169AA7D0FA4529C861F96ADEC306E",
     "mods": {
-      "4x3 v3 (1.1.0)": {
-        "path": "4x3 v3 (1.1.0)/exefs/4x3 v3 (1.1.0).pchtxt",
-        "sha256": "599e0846b3526f4c66b49af38070c451176767d15477269af63b94f132f1db5c"
-      },
       "RenderScale Fix v3 (1.1.0)": {
         "path": "RenderScale Fix v3 (1.1.0)/exefs/RenderScale Fix v3 (1.1.0).pchtxt",
         "sha256": "c8a85ca5eabf4625e9f6e005bdfc47b4207a5b8e4839a2735e2d40eafb7db46c"
@@ -22,6 +18,10 @@
       "Manual-Zoom v3 (1.1.0)": {
         "path": "Manual-Zoom v3 (1.1.0)/exefs/Manual-Zoom v3 (1.1.0).pchtxt",
         "sha256": "d9ee9ff072586e5db41651880105c145ca1e516aaaf8051ff77a7fe55405e443"
+      },
+      "4x3 v4 (1.1.0)": {
+        "path": "4x3 v4 (1.1.0)/exefs/4x3 v4 (1.1.0).pchtxt",
+        "sha256": "644f571cf27c5809741e7ce16efcd53525dc0a9e08a7dc0f111ed1b72d1cfd0b"
       }
     }
   }
