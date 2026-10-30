@@ -76,9 +76,17 @@ The combined packages were reported working by the user. Patch bytes were preser
 from those packages and checked for overlap between these three components. This is
 not a claim that every room, camera transition, or device has been tested.
 
-A post-fight progression lock was reported after the doppelganger boss with mods
-enabled; replaying with mods disabled allowed progression. The cause remains
-unconfirmed and v5 does not claim to fix it. A few large rooms may have performance
+One doppelganger post-fight progression lock was reported: the boss dissolved,
+but no absorption orb appeared and pressing R did nothing. Follow-up testing
+successfully replayed the fight and **did not reproduce the issue**. Its cause
+remains unconfirmed; it is not established as a mod defect.
+
+If this happens, the workaround that resolved the original occurrence was to
+fully exit the game, temporarily disable the mods, restart and replay the fight,
+then save after progressing. Fully exit again, re-enable the mods, and restart.
+This is a reported workaround, not a confirmed underlying fix.
+
+A few large rooms may have performance
 hiccups. Credits and menu letterboxing may retain the game's background color.
 
 ## Supporting reports and adaptation
