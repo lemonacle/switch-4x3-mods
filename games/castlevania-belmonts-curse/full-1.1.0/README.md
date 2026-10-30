@@ -11,23 +11,27 @@ These are Eden-compatible `.pchtxt` patches. Native Switch hardware is not valid
 
 | Folder | Purpose | Requirements |
 | --- | --- | --- |
-| `4x3 v4 (1.1.0)` | 1280x960 framing, menu fixes, camera tracking corrections, title/loading, video, and fast-travel framing | Set emulator aspect ratio to 4:3 |
+| `4x3 v5 (1.1.0)` | 1280x960 framing, menu fixes, camera tracking corrections, title/loading, video, fast-travel, and credits framing | Set emulator aspect ratio to 4:3 |
 | `RenderScale Fix v3 (1.1.0)` | Keeps internal rendering at 1.0 at startup and through runtime scale changes | Independent of 4:3; increases GPU workload compared with reduced rendering |
 | `Manual-Zoom v3 (1.1.0)` | R3 toggles expanded framing and a closer, original-height view on tracking cameras | Requires the included 4:3 mod; omit if R3 is needed by another mod |
 
 RenderScale and 4:3 work independently or together. Manual Zoom is optional;
 the 4:3 mod does not require it. No automatic boundary-driven zoom is included.
 
-## Changes in 4x3 v4
+## Changes in 4x3 v5
 
-Integrates the Ferryman's Wharf fast-travel fix: the layout uses a centered
-16:9 area within 4:3 to correct stretching and title/tooltip overlap.
-The integrated build passed user QA. RenderScale Fix and Manual Zoom remain v3.
+Integrates the user-tested Credits Test 1 framing fix, preserving its exact patch
+bytes. Ending artwork and credits fit within 4:3. Background colors are unchanged;
+the failed black-background experiment is not included.
+
+Retains v4's Ferryman's Wharf fast-travel layout fix. RenderScale Fix and Manual
+Zoom remain v3. The standalone credits fix passed user QA; the integrated v5
+package has passed static checks and awaits in-game confirmation.
 
 ## Installation
 
 1. Extract this release ZIP on your computer. It is a collection, not a single mod to import wholesale.
-2. Disable older versions of the selected mods, including Fast Travel Test 1, separate video fixes and old RenderScale asset/runtime packages.
+2. Disable older versions of the selected mods, including Credits Test 1 and Test 2, Fast Travel Test 1, separate video fixes and old RenderScale asset/runtime packages.
 3. Open the game's mod directory in your emulator. Copy only the named mod folders you want into it. Each folder must directly contain `exefs`.
 4. Enable your selected mods. Use 4:3 in emulator settings when enabling the 4:3 mod.
 5. Fully restart the game.
@@ -36,7 +40,7 @@ For example, the game mod directory can contain:
 
 ```text
 0100BA4026E94000/
-  4x3 v4 (1.1.0)/exefs/...
+  4x3 v5 (1.1.0)/exefs/...
   RenderScale Fix v3 (1.1.0)/exefs/...
   Manual-Zoom v3 (1.1.0)/exefs/...
 ```
@@ -53,7 +57,7 @@ and restart to revert it; these patches do not modify saves.
 The 4:3 view preserves horizontal coverage and adds vertical view. This can expose
 unfinished scenery. Menus fit the screen, while title/loading imagery and videos
 retain appropriate letterboxing. The video fix uses the shared playback controller;
-the opening has been confirmed, but every later cutscene has not been validated.
+the user confirmed the opening and ending videos during a completed playthrough.
 
 RenderScale applies both at camera preparation and when the game's scale manager
 requests changes. The user confirmed the asset-free version, including the earlier
@@ -71,6 +75,11 @@ Script-controlled cameras may need further testing.
 The combined packages were reported working by the user. Patch bytes were preserved
 from those packages and checked for overlap between these three components. This is
 not a claim that every room, camera transition, or device has been tested.
+
+A post-fight progression lock was reported after the doppelganger boss with mods
+enabled; replaying with mods disabled allowed progression. The cause remains
+unconfirmed and v5 does not claim to fix it. A few large rooms may have performance
+hiccups. Credits and menu letterboxing may retain the game's background color.
 
 ## Supporting reports and adaptation
 
